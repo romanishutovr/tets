@@ -1,0 +1,56 @@
+.font__inter_normal_20px{
+font-family: Inter;
+font-style: normal;
+font-size: 20px;
+}
+
+
+
+.font__inter_normal_14px{
+    font-family: Inter;
+    font-style: normal;
+    font-size: 14px;
+    margin: 0;
+ }
+.font__inter_normal_12px{
+   font-family: Inter;
+   font-style: normal;
+   font-size: 12px;
+   margin: 0;
+}
+.font__inter_normal_16px{
+    font-family: Inter;
+    font-style: normal;
+    font-size: 16px;
+ }
+ .font__inter_bold_16px{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+ }
+ .font__inter_bold_24px{
+   font-family: Inter;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+}
+.font__inter_bold_14px_blu{
+   font-family: Inter;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   color: #787885;
+}
+.font__inter_bold_14px{
+   font-family: Inter;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+
+}
+.font__quicksand_20px{
+   font-family: quicksand;
+   font-weight: 700;
+   font-size: 20px;
+}
